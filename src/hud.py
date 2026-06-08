@@ -1,5 +1,4 @@
 import cv2 as cv
-import numpy as np
 import math
 
 from utils import ROI_X1, ROI_Y1, ROI_W, ROI_H, FPS
@@ -21,9 +20,8 @@ def draw_hud(frame, score, lives):
 def draw_popups(frame, popups):
     keep = []
     for pop in popups:
-        txt, px, py, ttl = pop
-        rise = (40 - ttl) // 2
-        cv.putText(frame, txt, (px - 20, py - 8 - rise),
+        txt, px, py, timer = pop
+        cv.putText(frame, txt, (px - 20, py - 8),
                    cv.FONT_HERSHEY_DUPLEX, 0.85, (0, 255, 190), 2)
         pop[3] -= 1
         if pop[3] > 0:

@@ -43,7 +43,7 @@ class Ball:
         self.radius   = self.MIN_R
         self.hittable = False
 
-    def update(self):
+    def update(self): #
         acc     = 1.0 + self.t * 3.5
         self.x += self.vx * acc
         self.y += self.vy * acc
