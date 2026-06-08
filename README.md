@@ -19,6 +19,10 @@ Project ini dikembangkan menggunakan Python, OpenCV, dan NumPy tanpa menggunakan
 
 [PLACEHOLDER]
 
+### Screenshot Gameover
+
+[PLACEHOLDER]
+
 ### Video Demonstrasi
 
 [PLACEHOLDER]
@@ -164,7 +168,7 @@ Project berhasil mengimplementasikan seluruh komponen utama yang dipersyaratkan 
 
 ## Repository
 
-[PLACEHOLDER]
+https://github.com/tikkerss/ProjectPCV_Handweapon_Mini_Game.git
 
 ---
 
