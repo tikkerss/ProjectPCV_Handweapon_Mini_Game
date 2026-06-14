@@ -13,19 +13,22 @@ Project ini dikembangkan menggunakan Python, OpenCV, dan NumPy tanpa menggunakan
 
 ### Screenshot Gameplay
 
-[PLACEHOLDER]
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ffb12023-6de5-423f-839c-9c48df07e2c4" />
+
 
 ### Screenshot Hand Mask
 
-[PLACEHOLDER]
+<img width="892" height="774" alt="image" src="https://github.com/user-attachments/assets/ec7d863a-2048-4f9a-9bb9-5e143d6d4860" />
+
 
 ### Screenshot Gameover
 
-[PLACEHOLDER]
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/370389b4-430e-473e-9369-0251355fc7ec" />
+
 
 ### Video Demonstrasi
 
-[PLACEHOLDER]
+https://drive.google.com/file/d/1M03u-UNyCD6y785pHBf9WrBsF8MHZ3-L/view?usp=sharing
 
 ---
 
