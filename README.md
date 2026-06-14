@@ -172,12 +172,3 @@ Project berhasil mengimplementasikan seluruh komponen utama yang dipersyaratkan 
 ## Repository
 
 https://github.com/tikkerss/ProjectPCV_Handweapon_Mini_Game.git
-
----
-
-## Referensi
-
-* OpenCV Documentation
-* NumPy Documentation
-* OpenCV Color Spaces Documentation
-* OpenCV Morphological Operations Documentation
